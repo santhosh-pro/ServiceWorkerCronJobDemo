@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+W/uWTy1roPDlf6Q/Ifffi/6VcBH7mgp4Iiki3kCmAWi8KpPqt7QsmgN+o7Xpg+T5NkVJZ+jYcgiwYbyMlg+Vw==",
+  "success": true,
+  "projectFilePath": "/Users/santhosh/Desktop/R&D/dotnet_examples/ServiceWorkerCronJobDemo/ServiceWorkerCronJobDemo/ServiceWorkerCronJobDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/santhosh/.nuget/packages/cronos/0.7.0/cronos.0.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
